@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...english
 - 💞️ I’m looking to collaborate on ...securiy
 - 📫 How to reach me ...omarmaldonado7@hotmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ...Mr
+- ⚡ Fun fact: ...KD needed Curry
 
 <!---
 Pirataninja777/Pirataninja777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

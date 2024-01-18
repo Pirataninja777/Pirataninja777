@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pirataninja777
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...english
-- 💞️ I’m looking to collaborate on ...securiy
+- 💞️ I’m looking to collaborate on ...security
 - 📫 How to reach me ...omarmaldonado7@hotmail.com
 - 😄 Pronouns: ...Mr
 - ⚡ Fun fact: ...KD needed Curry

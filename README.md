@@ -5,7 +5,10 @@
 - 📫 How to reach me ...omarmaldonado7@hotmail.com
 - 😄 Pronouns: ...Mr
 - ⚡ Fun fact: ...KD needed Curry
+
 ![Mi hijo](/home/omar/Pirataninja777/said.jpeg)
+
+
 
 
 

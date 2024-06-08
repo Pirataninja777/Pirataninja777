@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...Mr
 - ⚡ Fun fact: ...KD needed Curry
 --------------
-![/home/omar/Pirataninja777/said.jpeg]
+![](/home/omar/Pirataninja777/said.jpeg)
 
 <!---
 Pirataninja777/Pirataninja777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
